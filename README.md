@@ -1,11 +1,10 @@
-# 📊 HR Attrition Analytics Dashboard
+# 🌦️ Weather Analytics & Visualization Dashboard (Power BI)
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-0078D4?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-Data_Modeling-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-# 🌦️ Weather Analytics & Visualization Dashboard (Power BI)
 
 An interactive, visually rich **Weather Dashboard** built using **Microsoft Power BI**. This project demonstrates end-to-end business intelligence workflows, including data extraction, data transformations via Power Query, data modeling, dynamic DAX calculations, and UI/UX design optimized for data storytelling.
 
